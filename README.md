@@ -15,9 +15,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oskar-77&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=ffffff&icon_color=FF00FF&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oskar-77&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=ffffff)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oskar-77&theme=radical&hide_border=true&background=0d1117&stroke=FF00FF&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-oskar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=ffffff&icon_color=FF00FF&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-oskar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-oskar&theme=radical&hide_border=true&background=0d1117&stroke=FF00FF&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF)
 
 </div>
 
@@ -29,7 +29,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oskar1python@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrazzaq-al-surabi-783579304/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967773957426)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oskar-77)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-oskar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7130?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
